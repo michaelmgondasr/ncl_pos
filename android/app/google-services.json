@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709522347058",
+    "project_id": "ncl-pos-ruwas3",
+    "storage_bucket": "ncl-pos-ruwas3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709522347058:android:c3cf3e3e34a99af6df582b",
+        "android_client_info": {
+          "package_name": "com.example.ncl_pos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTe-J5Ni5JLHgn-ogLYOo2Oerx7SKGJug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
